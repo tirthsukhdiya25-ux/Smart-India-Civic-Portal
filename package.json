@@ -1,0 +1,21 @@
+{
+  "name": "smart-india-civic-portal",
+  "version": "1.0.0",
+  "description": "Smart India – Civic Issue Reporting & Government Action Portal",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev:backend": "node --watch backend/server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "smart-india",
+    "civic-issue-portal",
+    "government-action",
+    "swachh-bharat",
+    "digital-india",
+    "leaflet-maps"
+  ],
+  "author": "Smart India Team",
+  "license": "ISC"
+}

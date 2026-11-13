@@ -1,0 +1,418 @@
+{
+  "complaints": [
+    {
+      "id": "complaint-1794564724818",
+      "complaintId": "IND-2026-10840",
+      "title": "help to clean up",
+      "description": "serious problem",
+      "category": "Sanitation Department",
+      "department": "Sanitation Department",
+      "status": "Submitted",
+      "assignedOfficer": "Unassigned",
+      "priority": "Medium",
+      "imageUrl": "/uploads/issue-1794564724797-478031647.jpeg",
+      "resolutionProofUrl": "",
+      "rejectionReason": "",
+      "location": {
+        "latitude": 23.00781,
+        "longitude": 72.58045,
+        "address": "near bapunagar d-mart ",
+        "landmark": "L.B. shastri road",
+        "city": "bapunagar, ahemdabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "pincode": "380022"
+      },
+      "citizen": {
+        "name": "tirth sukhdiya",
+        "email": "tirthpatels018@gmail.com",
+        "phone": ""
+      },
+      "remarks": [
+        {
+          "date": "2026-11-13T10:12:04.818Z",
+          "by": "System",
+          "text": "Complaint registered successfully with ID IND-2026-10840. Transmitted to Central Civic Dispatch."
+        }
+      ],
+      "createdAt": "2026-11-13T10:12:04.818Z",
+      "updatedAt": "2026-11-13T10:12:04.818Z"
+    },
+    {
+      "id": "complaint-1",
+      "complaintId": "IND-2026-10482",
+      "title": "Severe Pothole Cluster and Damaged Bitumen Road",
+      "description": "Deep potholes on the main junction causing heavy traffic congestion and two-wheeler accidents during evening rush hours. The road surface has completely eroded over a 40-meter stretch.",
+      "category": "Road and Transport Department",
+      "department": "Road and Transport Department",
+      "status": "Work in Progress",
+      "assignedOfficer": "Rajesh Kumar (Executive Engineer, Ward 4)",
+      "priority": "High",
+      "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "",
+      "location": {
+        "latitude": 28.6328,
+        "longitude": 77.2197,
+        "address": "Outer Ring Road, Near Connaught Place Outer Circle, Block C",
+        "landmark": "Opposite Shankar Market Metro Exit",
+        "city": "New Delhi",
+        "district": "New Delhi",
+        "state": "Delhi",
+        "pincode": "110001"
+      },
+      "citizen": {
+        "name": "Amit Sharma",
+        "email": "amit.sharma@example.com",
+        "phone": "+91 98765 43210"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-10T10:30:00Z",
+          "by": "System",
+          "text": "Complaint registered successfully with ID IND-2026-10482."
+        },
+        {
+          "date": "2026-11-11T09:15:00Z",
+          "by": "Control Room Officer - Delhi",
+          "text": "Inspection verified on-site. Forwarded to Road & Transport Maintenance Division."
+        },
+        {
+          "date": "2026-11-12T14:00:00Z",
+          "by": "Rajesh Kumar (Executive Engineer)",
+          "text": "Cold-mix asphalt patch team dispatched. Work commenced on 40m stretch."
+        }
+      ],
+      "createdAt": "2026-11-10T10:30:00Z",
+      "updatedAt": "2026-11-12T14:00:00Z"
+    },
+    {
+      "id": "complaint-2",
+      "complaintId": "IND-2026-21894",
+      "title": "Overflowing Garbage Dumpster and Plastic Waste Accumulation",
+      "description": "Solid municipal waste has not been collected for over 4 days. Waste is spilling onto the pedestrian sidewalk and attracting stray animals, creating severe foul odor and health hazards.",
+      "category": "Sanitation Department",
+      "department": "Sanitation Department",
+      "status": "Resolved",
+      "assignedOfficer": "Sunita Deshmukh (Sanitation Inspector)",
+      "priority": "High",
+      "imageUrl": "https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "latitude": 19.0178,
+        "longitude": 72.8478,
+        "address": "Ranade Road, Near Dadar Railway Station West",
+        "landmark": "Near Flower Market Gate 2",
+        "city": "Mumbai",
+        "district": "Mumbai City",
+        "state": "Maharashtra",
+        "pincode": "400028"
+      },
+      "citizen": {
+        "name": "Pooja Patel",
+        "email": "pooja.patel@example.com",
+        "phone": "+91 98220 11223"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-08T08:00:00Z",
+          "by": "System",
+          "text": "Complaint filed by citizen."
+        },
+        {
+          "date": "2026-11-08T11:45:00Z",
+          "by": "BMC Ward Officer",
+          "text": "Assigned to Dadar Sanitation Field Division."
+        },
+        {
+          "date": "2026-11-09T16:30:00Z",
+          "by": "Sunita Deshmukh (Sanitation Inspector)",
+          "text": "Garbage compactors deployed. Entire 1.5 tons of backlog cleared, bins sanitized and lime powder sprayed."
+        }
+      ],
+      "createdAt": "2026-11-08T08:00:00Z",
+      "updatedAt": "2026-11-09T16:30:00Z"
+    },
+    {
+      "id": "complaint-3",
+      "complaintId": "IND-2026-34901",
+      "title": "Broken Stormwater Drain Slab and Open Manhole",
+      "description": "Concrete slab covering the stormwater drain collapsed after heavy rainfall. It poses an immediate danger to pedestrians, children, and vehicles, especially at night due to poor lighting.",
+      "category": "Drainage Department",
+      "department": "Drainage Department",
+      "status": "Assigned to Department",
+      "assignedOfficer": "K. Venkatesh (Assistant Executive Engineer)",
+      "priority": "Urgent",
+      "imageUrl": "https://images.unsplash.com/photo-1541888946425-d0fbb18f15f6?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "",
+      "location": {
+        "latitude": 12.9352,
+        "longitude": 77.6245,
+        "address": "80 Feet Road, 4th Block, Koramangala",
+        "landmark": "Near Maharaja Signal",
+        "city": "Bengaluru",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "pincode": "560034"
+      },
+      "citizen": {
+        "name": "Rohan Nair",
+        "email": "rohan.nair@example.com",
+        "phone": "+91 97412 88990"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-12T07:20:00Z",
+          "by": "System",
+          "text": "Complaint submitted."
+        },
+        {
+          "date": "2026-11-12T10:10:00Z",
+          "by": "BBMP Control Room",
+          "text": "Complaint reviewed and verified urgent. Barricades placed around open cavity."
+        },
+        {
+          "date": "2026-11-12T12:00:00Z",
+          "by": "K. Venkatesh",
+          "text": "Pre-cast reinforced concrete cover ordered. Installation scheduled tomorrow morning."
+        }
+      ],
+      "createdAt": "2026-11-12T07:20:00Z",
+      "updatedAt": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "complaint-4",
+      "complaintId": "IND-2026-45120",
+      "title": "Main Drinking Water Pipeline Leakage and Water Wastage",
+      "description": "Underground main water pipeline has burst, causing thousands of liters of clean drinking water to flood the street while residents experience zero water pressure in their taps.",
+      "category": "Water Supply Department",
+      "department": "Water Supply Department",
+      "status": "Under Review",
+      "assignedOfficer": "Pending Assignment",
+      "priority": "Urgent",
+      "imageUrl": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "",
+      "location": {
+        "latitude": 26.853,
+        "longitude": 75.805,
+        "address": "Sector 3, Calgiri Marg, Malviya Nagar",
+        "landmark": "Behind Apex Hospital",
+        "city": "Jaipur",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "pincode": "302017"
+      },
+      "citizen": {
+        "name": "Deepika Shekhawat",
+        "email": "deepika.s@example.com",
+        "phone": "+91 94140 55667"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-13T09:40:00Z",
+          "by": "System",
+          "text": "Complaint submitted with GPS coordinates."
+        },
+        {
+          "date": "2026-11-13T10:30:00Z",
+          "by": "PHED Jaipur Central Desk",
+          "text": "Valves being isolated to prevent further wastage. Maintenance squad notified."
+        }
+      ],
+      "createdAt": "2026-11-13T09:40:00Z",
+      "updatedAt": "2026-11-13T10:30:00Z"
+    },
+    {
+      "id": "complaint-5",
+      "complaintId": "IND-2026-56238",
+      "title": "Damaged Pedestrian Footpath Paver Blocks & Exposed Cables",
+      "description": "Footpath paver blocks are broken and displaced for 20 meters. Electric utility cables are exposed near the bus stop, posing trip and shock risks.",
+      "category": "Public Works Department (PWD)",
+      "department": "Public Works Department (PWD)",
+      "status": "Submitted",
+      "assignedOfficer": "Unassigned",
+      "priority": "Medium",
+      "imageUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "",
+      "location": {
+        "latitude": 22.551,
+        "longitude": 88.3526,
+        "address": "Park Street Crossing, Near Camac Street",
+        "landmark": "Opposite Flurys Bakery",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "700016"
+      },
+      "citizen": {
+        "name": "Subhash Banerjee",
+        "email": "subhash.b@example.com",
+        "phone": "+91 98301 77665"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-13T11:15:00Z",
+          "by": "System",
+          "text": "Complaint lodged successfully."
+        }
+      ],
+      "createdAt": "2026-11-13T11:15:00Z",
+      "updatedAt": "2026-11-13T11:15:00Z"
+    },
+    {
+      "id": "complaint-6",
+      "complaintId": "IND-2026-67891",
+      "title": "Non-Functional Streetlights on Major Arterial Road",
+      "description": "Series of 8 consecutive streetlights have been completely dark for over a week, leading to safety concerns for female commuters and pedestrians.",
+      "category": "Municipal Corporation",
+      "department": "Municipal Corporation",
+      "status": "Resolved",
+      "assignedOfficer": "Murugan Selvam (Electrical Engineer)",
+      "priority": "High",
+      "imageUrl": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "https://images.unsplash.com/photo-1517646287270-a5a9ca602e5c?auto=format&fit=crop&w=800&q=80",
+      "location": {
+        "latitude": 13.0418,
+        "longitude": 80.2341,
+        "address": "G.N. Chetty Road, T. Nagar",
+        "landmark": "Near Panagal Park",
+        "city": "Chennai",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "pincode": "600017"
+      },
+      "citizen": {
+        "name": "Ananya Krishnan",
+        "email": "ananya.k@example.com",
+        "phone": "+91 98401 22334"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-06T19:00:00Z",
+          "by": "System",
+          "text": "Complaint filed."
+        },
+        {
+          "date": "2026-11-07T10:00:00Z",
+          "by": "Greater Chennai Corporation",
+          "text": "Feeder pillar circuit fault diagnosed."
+        },
+        {
+          "date": "2026-11-07T17:30:00Z",
+          "by": "Murugan Selvam (Electrical Engineer)",
+          "text": "Faulty relay replaced and 8 new energy-efficient LED luminaires installed. All lights tested functional."
+        }
+      ],
+      "createdAt": "2026-11-06T19:00:00Z",
+      "updatedAt": "2026-11-07T17:30:00Z"
+    },
+    {
+      "id": "complaint-7",
+      "complaintId": "IND-2026-78234",
+      "title": "Illegal Encroachment and Unauthorized Debris Dumping in Public Park",
+      "description": "Construction rubble and debris dumped inside the municipal children's playground. Commercial vehicles parking inside the green area.",
+      "category": "Other Government Departments",
+      "department": "Other Government Departments",
+      "status": "Work in Progress",
+      "assignedOfficer": "Alok Srivastava (Enforcement Officer)",
+      "priority": "Medium",
+      "imageUrl": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "",
+      "location": {
+        "latitude": 26.8467,
+        "longitude": 80.9462,
+        "address": "Vipin Khand, Gomti Nagar",
+        "landmark": "Adjacent to Manoj Pandey Chowk Park",
+        "city": "Lucknow",
+        "district": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pincode": "226010"
+      },
+      "citizen": {
+        "name": "Vikas Verma",
+        "email": "vikas.verma@example.com",
+        "phone": "+91 99350 44556"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-11T14:20:00Z",
+          "by": "System",
+          "text": "Complaint filed."
+        },
+        {
+          "date": "2026-11-12T11:00:00Z",
+          "by": "LDA Enforcement",
+          "text": "Site inspected. Show-cause notices issued to violators. Debris clearance tractor hired."
+        }
+      ],
+      "createdAt": "2026-11-11T14:20:00Z",
+      "updatedAt": "2026-11-12T11:00:00Z"
+    },
+    {
+      "id": "complaint-8",
+      "complaintId": "IND-2026-89102",
+      "title": "Commercial Waste Dumping on Private Farm Land Boundary",
+      "description": "Report filed requesting cleaning of interior private compound which does not fall under public municipal jurisdiction.",
+      "category": "Sanitation Department",
+      "department": "Sanitation Department",
+      "status": "Rejected",
+      "assignedOfficer": "B. Patel (Zonal Officer)",
+      "priority": "Low",
+      "imageUrl": "https://images.unsplash.com/photo-1611288875685-147054941d42?auto=format&fit=crop&w=800&q=80",
+      "resolutionProofUrl": "",
+      "rejectionReason": "Private property boundary outside municipal jurisdiction. Citizen advised to contact District Revenue Officer or local society management.",
+      "location": {
+        "latitude": 23.0225,
+        "longitude": 72.5714,
+        "address": "Sindhu Bhavan Road, Bodakdev",
+        "landmark": "Near Taj Skyline",
+        "city": "Ahmedabad",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "pincode": "380054"
+      },
+      "citizen": {
+        "name": "Jayesh Shah",
+        "email": "jayesh.shah@example.com",
+        "phone": "+91 98250 88990"
+      },
+      "remarks": [
+        {
+          "date": "2026-11-09T16:10:00Z",
+          "by": "System",
+          "text": "Complaint submitted."
+        },
+        {
+          "date": "2026-11-10T11:20:00Z",
+          "by": "B. Patel (Zonal Officer)",
+          "text": "Complaint rejected: Private property dispute outside AMC civic scope."
+        }
+      ],
+      "createdAt": "2026-11-09T16:10:00Z",
+      "updatedAt": "2026-11-10T11:20:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Dr. Arvind Swaminathan",
+      "email": "admin@smartindia.gov.in",
+      "passwordHash": "$2a$10$wT8G8s9XwH4M9pS.jK0vau3Q0zF1WfKq7UaZ0s.p/8Xq3Y0j9Gf4q",
+      "role": "admin",
+      "department": "National Civic Operations Directorate",
+      "phone": "+91 11 2338 5000",
+      "createdAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "user-citizen-1",
+      "name": "Amit Sharma",
+      "email": "amit.sharma@example.com",
+      "passwordHash": "$2a$10$wT8G8s9XwH4M9pS.jK0vau3Q0zF1WfKq7UaZ0s.p/8Xq3Y0j9Gf4q",
+      "role": "citizen",
+      "department": "",
+      "phone": "+91 98765 43210",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "createdAt": "2026-03-15T10:00:00Z"
+    }
+  ]
+}
